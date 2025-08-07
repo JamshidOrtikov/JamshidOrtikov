@@ -1,5 +1,5 @@
 # About me
-<p><h2>👋🏻Hey! I'm Jamshid Ortikov. I'm a Backend developer.</h2></p>
+<p><h2>👋🏻Hello there! I'm Jamshid Ortikov. I'm a Backend developer.</h2></p>
 
 - Telegram:                           [JamshidOrtikov](https://t.me/JPNH81)
 ## Main tools
